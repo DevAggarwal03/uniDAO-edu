@@ -7,7 +7,7 @@ University DAO is a Decentralized Autonomous Organization (DAO) designed to revo
 
   
 
-The application is built on the Mantle Sepolia Testnet, leveraging blockchain technology for transparency, security, and decentralization.
+The application is built on the EDU Chain Testnet, leveraging blockchain technology for transparency, security, and decentralization.
 
   
 
@@ -20,7 +20,7 @@ The application is built on the Mantle Sepolia Testnet, leveraging blockchain te
 -  **Transparent Process**: All votes and decisions are recorded on the blockchain, ensuring transparency.
 
 -  **Student Access**: Students can easily access the selected course curriculums.
-- **Mantle Integration**: Smart Contract is deployed on Mantle sepolia testnet.
+- **Mantle Integration**: Smart Contract is deployed on Edu Chain testnet.
 
   
 
@@ -49,10 +49,10 @@ Follow these steps to set up the University DAO application locally:
   
   ### Important Links
 
-1. [Deployed Site Link](https://university-dao.onrender.com/)
-2. [Contract Explorer Link](https://sepolia.mantlescan.xyz/address/0xf1da7f0d23d75dc63706a4c918ee34a123235720)
-3. [Demo Video Link]( https://drive.google.com/file/d/1wETeWCo0bFfmcDiIJ38jGVUYXHOEwmCt/view?usp=sharing)
-4. [Github](https://github.com/DevAggarwal03/uniDAO)
+1. [Deployed Site Link](https://unidao-edu.onrender.com/)
+2. [Contract Explorer Link](https://edu-chain-testnet.blockscout.com/address/0xE17BF12937528F8Ed69275A00A988f6f21e47c4D)
+3. [Demo Video Link](https://youtu.be/DegUoPm1EfI)
+4. [Github](https://github.com/DevAggarwal03/uniDAO-edu)
 
 ### Steps
 
@@ -64,7 +64,7 @@ Follow these steps to set up the University DAO application locally:
 
 ```bash
 
-git clone https://github.com/DevAggarwal03/uniDAO.git
+git clone https://github.com/DevAggarwal03/uniDAO-edu
 
 cd university-dao
 
@@ -124,6 +124,6 @@ We welcome contributions! Feel free to submit issues or pull requests to enhance
 ---
 
 
-- Built on the Mantle Sepolia Testnet
+- Built on the EDU Chain Testnet
 
 - Inspired by the need for inclusive and transparent curriculum design processes.
