@@ -5,7 +5,7 @@ import { motion } from "framer-motion";
 import { useEffect, useState } from "react";
 
 const Home = () => {
-  const [scrollY, setScrollY] = useState(0);
+  const [, setScrollY] = useState(0);
 
   useEffect(() => {
     const handleScroll = () => {
