@@ -105,7 +105,7 @@ const AllMembers = () => {
             <motion.div 
               className="grid grid-cols-1 md:grid-cols-2 gap-6"
               variants={container}
-              initial="hidden"
+              initial="hide"
               animate="show"
             >
               {data && filteredMembers.length > 0 ? (
