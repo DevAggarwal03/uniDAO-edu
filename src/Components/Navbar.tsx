@@ -1,4 +1,4 @@
-import { Globe } from "lucide-react";
+import { Globe, GraduationCap } from "lucide-react";
 import { Link } from "react-router-dom";
 import { ConnectButton } from "@rainbow-me/rainbowkit";
 import { motion } from "framer-motion";
@@ -37,10 +37,10 @@ const Navbar = () => {
           animate={{ opacity: 1 }}
           transition={{ delay: 0.2 }}
         >
-          <div className="bg-teal-500/10 p-2 rounded-lg">
-            <Globe className="w-6 h-6 text-teal-400" />
+          <div className="bg-teal-500/10 p-2 py-[0.5px] rounded-lg">
+          <GraduationCap className="text-teal-300 mb-2" size={36} />
           </div>
-          <h1 className="text-xl font-bold text-white">University DAO</h1>
+          <h1 className="text-xl font-bold text-white">EduGovernance</h1>
         </motion.div>
 
         <motion.div 
